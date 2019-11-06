@@ -1,0 +1,34 @@
+AdsBot-Google
+Ask Jeeves
+Baiduspider
+BecomeBot
+BingBot
+Facebook
+Google Proxy
+GoogleBot
+GoogleImageProxy
+Jobboerse
+Jyxobot
+LinkArchiver
+LinkedInBot
+MJ12bot
+Mediapartners
+NetcraftSurveyAgent
+PhantomJS
+Python-urllib
+Slurp
+TelegramBot
+Twitterbot
+VoilaBot
+WhatsApp
+curl
+ia_archiver
+libwww-perl
+msnbot
+msnbot-media
+Nmap
+Nmap Scripting Engine
+okhttp
+python
+sqlmap
+wget
