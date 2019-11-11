@@ -10,3 +10,4 @@ OVH
 Google LLC
 Microsoft
 Azure
+AWS
