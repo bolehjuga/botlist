@@ -3,3 +3,8 @@ Amazon.com
 Digital Ocean
 DigitalOcean
 Vultr
+Kaspersky
+Faction
+Privax
+OVH
+Google LLC
