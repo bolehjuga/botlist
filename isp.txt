@@ -8,3 +8,5 @@ Faction
 Privax
 OVH
 Google LLC
+Microsoft
+Azure
