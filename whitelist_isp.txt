@@ -4,3 +4,4 @@ Dodo Australia
 TPG Internet
 iPrimus
 Telstra Internet
+CenturyLink
