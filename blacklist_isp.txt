@@ -11,3 +11,4 @@ Google LLC
 Microsoft
 Azure
 AWS
+PayPal
