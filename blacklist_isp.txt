@@ -12,3 +12,6 @@ Microsoft
 Azure
 AWS
 PayPal
+Netstack Cloud Services
+Digital Energy Technologies Chile SpA
+Host1Plus
