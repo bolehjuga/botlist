@@ -3,3 +3,4 @@ Exetel
 Dodo Australia
 TPG Internet
 iPrimus
+Telstra Internet
