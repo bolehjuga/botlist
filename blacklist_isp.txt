@@ -784,6 +784,7 @@ Megahost.dk
 MegaTR
 MegiTeam
 Melbicom
+Melbikomas UAB
 Memset Ltd
 MGNHost.ru
 Micfo, LLC
@@ -1245,6 +1246,7 @@ uadomen.com
 Uber Global Pty Ltd
 Ubiquity Hosting
 UDomain
+UK2 - Ltd
 UK2 Group
 UK2.NET
 UK Dedicated Servers LTD
