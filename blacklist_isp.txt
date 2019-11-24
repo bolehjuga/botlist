@@ -214,6 +214,7 @@ co-location.com
 Coc Coc Company Limited.
 Codero
 Cogeco Peer 1
+Cogent Communications
 colo4dallas.com
 colo@
 colocall.net
@@ -339,6 +340,7 @@ DL HOST.
 DME Hosting
 DMIT, Inc.
 DNS Hosting
+DoD Network Information Center
 Dogado Gmbh
 domainfactory GmbH
 Dominios
@@ -526,6 +528,7 @@ home.pl S.A.
 HopOne
 Hosixy LLC
 Host1Plus
+Host1Plus Cloudstack services
 Host4Geeks LLC
 Host Department LLC
 Host Depot
@@ -693,6 +696,7 @@ Jagoan Hosting (Beon Intermedia)
 JEE.PL
 JoeS Datacenter, LLC
 Joyent Inc.
+JSC RTComm.RU
 JSC Technical centre of Internet
 Jumpline Inc
 justhost.in.ua
@@ -701,6 +705,7 @@ K&k Corporation Ltd
 Kakao Corporation
 Kamatera, Inc.
 Kaspersky
+Kaspersky Lab AO
 Kazakhtelecom Colocation
 KEYWEB AG
 Kharkov Server Ltd
@@ -879,6 +884,7 @@ nimbushosting.co.uk
 nine.ch
 niobeweb.net
 NK Support Ltd
+Nobis Technology Group, LLC
 Nodes Direct Holdings, LLC
 Nodisto It, LLC
 North Carolina Research and Education Network
@@ -965,6 +971,7 @@ prioritycolo.com
 Private Layer INC
 PrivateSystems.net
 Privax
+Privax Ltd.
 PRO ISP AS
 ProDos s.r.o.
 profihost
@@ -1263,11 +1270,13 @@ Unbelievable Machine
 Unelink Telecom S.A.
 Uniserver NL
 Unithost Internet B.V.
+University of California, San Diego
 Uniweb
 Unlimited Web Hosting Uk Ltd.
 UpCloud
 US Colo
 US Dedicated, LLC.
+US Department of Defense Network
 Usonyx Pte Ltd
 Utah Education Network
 Utel Datacenter
