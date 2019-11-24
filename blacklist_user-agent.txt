@@ -33,3 +33,6 @@ python
 sqlmap
 wget
 Internet Explorer
+Go-http-client
+Headless
+Guzzle
