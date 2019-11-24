@@ -34,3 +34,7 @@ Panhandle Telecommunications Systems
 PenTeleData
 Datalogic ADC
 Dalton Utilities
+Utah Education Network
+LocalTel Communications
+Consolidated Communications
+Aureon Network Services
