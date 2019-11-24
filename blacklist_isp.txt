@@ -32,3 +32,4 @@ Shinjiru Technology Sdn Bhd
 Choopa LLC
 Panhandle Telecommunications Systems
 PenTeleData
+Datalogic ADC
