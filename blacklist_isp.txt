@@ -1,6 +1,7 @@
 0x2A Datacenter
 1 Gbits
 1&1 Internet
+1&1 Internet AG
 1-800-Hosting
 1blu.de
 1gb.ru
@@ -488,6 +489,7 @@ GoodNet
 Google
 Google Cloud
 Google LLC
+Google Proxy
 GoRack
 gorack.net
 Gorilla Servers
@@ -513,6 +515,7 @@ Heinlein Support GmbH
 HEKKO.PL
 HelloVPS
 Hetzner Online
+Hetzner Online GmbH
 Heureka Shopping s.r.o.
 Heymman Servers
 High Speed Web, Inc.
@@ -875,6 +878,7 @@ NFOrce Entertainment B.V.
 nimbushosting.co.uk
 nine.ch
 niobeweb.net
+NK Support Ltd
 Nodes Direct Holdings, LLC
 Nodisto It, LLC
 North Carolina Research and Education Network
