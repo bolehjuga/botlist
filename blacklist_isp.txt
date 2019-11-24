@@ -735,6 +735,7 @@ LeapSwitch Networks Pvt
 LeaseVPS
 LeaseWeb
 Level 3 Communications
+LG DACOM Corporation
 LightEdge Solutions, Inc.
 Lightspeed Systems, Inc.
 Lightstorm Communications s.r.o.
@@ -921,6 +922,7 @@ Optibit
 Optimate Server
 Opus Interactive
 Oracle Cloud
+Orange Polska
 OrangeWebsite (IceNetworks Ltd.)
 OVH
 OVH SAS
