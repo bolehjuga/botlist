@@ -271,6 +271,7 @@ Dalton Utilities
 Daou Technology
 Dassault Systèmes
 Data 102
+Data Centers
 Data Foundry
 Data Shack
 Data Space Sp. z o.o.
@@ -385,6 +386,7 @@ esited.com
 Esnet
 Estoxy
 EstroWeb
+eStruxture Data Centers
 ESTT
 ethnohosting
 Ethr.net
@@ -949,6 +951,7 @@ Plutex
 POHODA-SERVIS spol. s r.o.
 Pointer
 Portlane
+Portlane AB
 Power Up Hosting, Inc.
 PQ.HOSTING
 Premia Networks Corporation
