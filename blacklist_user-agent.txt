@@ -32,3 +32,4 @@ okhttp
 python
 sqlmap
 wget
+Internet Explorer
