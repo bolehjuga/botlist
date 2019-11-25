@@ -37,3 +37,4 @@ Go-http-client
 Headless
 Guzzle
 dingtalk
+Baidu
