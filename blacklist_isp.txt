@@ -429,6 +429,7 @@ Fastly, Inc.
 Fastmetrics
 FASTVPS Eesti OÜ
 Fastweb
+Fastweb SpA
 fcloud.biz
 FDC Servers
 Fevvo, Inc.
