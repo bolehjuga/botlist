@@ -684,6 +684,7 @@ IPXcore
 IQ PL Sp. z o.o.
 iqhost.ru
 IS Group B.V.
+iSERVER informacijske storitve d.o.o.
 IsimTescil.net
 ISPpro Internet KG
 ISPserver
@@ -1078,6 +1079,7 @@ Sakura Internet Inc.
 Savvis
 SBA Research gGmbH
 SBY-Telecom
+Scaleway
 Scoop.it, Inc.
 Scrub The Web
 Sectorlink, LLC
