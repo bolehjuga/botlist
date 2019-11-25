@@ -59,6 +59,7 @@ AlphaVPS
 AltusHost
 Alvotech Netherlands
 Amagicom AB (Mullvad VPN)
+Amanah Tech
 Amanah Tech Inc
 Amazon
 Amazon AWS
@@ -239,6 +240,7 @@ Confluence Networks Inc
 ConnectingBytes Gbmh
 Connectria
 Consolidated Communications
+Consolidated Cummunications
 Contabo GmbH
 Contegix Llc.
 Contel Ooo
@@ -417,6 +419,7 @@ EZZI.net
 F-Secure
 Facebook, Inc.
 Faction
+Fairpoint Communications
 Faraso
 Fast Serv Networks, LLC
 Fasthosts Internet Ltd
@@ -640,6 +643,7 @@ Infium-1
 infiumhost.com
 Infobox
 Infomaniak Network SA
+Inline Internet Online Dienste GmbH
 inline.de
 INMOTION HOSTING, INC.
 INOVENTICA
@@ -687,6 +691,7 @@ ISPSystem
 It7 Networks Inc
 IT Lab Limited
 ITL Group
+Itparad LLC
 Its Hosted
 itsoft.ru
 iWeb Technologies Inc.
@@ -1280,6 +1285,7 @@ ukwebhosting.ltd.uk
 ultrasvps.com
 Unbelievable Machine
 Unelink Telecom S.A.
+Union Group LLC
 Uniserver NL
 Unithost Internet B.V.
 University of California, San Diego
@@ -1424,6 +1430,7 @@ ZAP-Hosting GmbH & Co. KG
 ZBSCloud
 Zenlayer
 ZET servers Romania
+ZNET Telekom Zrt.
 Zoho Corporation Pvt. Ltd.
 Zone Media OÜ
 ZonerHost
