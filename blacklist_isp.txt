@@ -45,6 +45,7 @@ Airnet
 AIT
 Akamai Technologies, Inc.
 Alfahosting
+Algar Telecom S/a
 Alibaba Cloud
 Alibaba Host
 Alistaro
@@ -282,6 +283,7 @@ data-centr.lv
 data-xata.com
 Database By Design, LLC
 DataCamp Limited
+Datacamp Limited
 DataCenter Finland Oy
 Datacenter Luxembourg
 DataClub
@@ -421,6 +423,7 @@ Fasthosts Internet Ltd
 Fastly, Inc.
 Fastmetrics
 FASTVPS Eesti OÜ
+Fastweb
 fcloud.biz
 FDC Servers
 Fevvo, Inc.
@@ -492,6 +495,7 @@ Google
 Google Cloud
 Google LLC
 Google Proxy
+Googlebot
 GoRack
 gorack.net
 Gorilla Servers
@@ -765,6 +769,7 @@ Luna Node
 Lunar Pages
 LWS
 M247 Ltd
+M247 LTD Oslo Infrastructure
 Magic Online
 Mail.ru Llc
 Mailkit s.r.o.
@@ -913,6 +918,7 @@ One Asia Host LLP
 One.com
 OneProvider
 Online SAS
+OOO Network of data-centers Selectel
 OpenHosting UK Internet Solutions
 Opera Software AS
 Oplink
@@ -1113,6 +1119,7 @@ SevenL Networks Inc
 Seznam.cz
 Sh3lls
 SharkServers Ltd
+Sharktech
 Sharktech Inc.
 Shinjiru Technology Sdn Bhd
 Shock Hosting LLC.
@@ -1377,6 +1384,7 @@ Wholesale Internet, Inc
 Wikimedia Foundation Inc
 WINFORMA Witschi
 wiredtree
+WiscNet
 WISTEE SAS
 World Hosting Farm LTD
 WorldStream
@@ -1416,3 +1424,4 @@ ZET servers Romania
 Zoho Corporation Pvt. Ltd.
 Zone Media OÜ
 ZonerHost
+Zwiebelfreunde e.V.
