@@ -219,6 +219,7 @@ Coc Coc Company Limited.
 Codero
 Cogeco Peer 1
 Cogent Communications
+Coldwater Board of Public Utilities
 colo4dallas.com
 colo@
 colocall.net
@@ -732,6 +733,7 @@ KnownSRV LTD
 KoDDoS.com
 Koehler Internet Services
 KONTENT GmbH
+KPMG LLP
 Krakowskie e-Centrum Informatyczne
 Krypt
 Kualo
@@ -1251,6 +1253,7 @@ tops.net GmbH & Co. KG
 Total Server Solutions
 Totalin
 Trabia Network
+Trabia-Network Limited
 Trader Soft Llc
 Tranquil Hosting
 Transip Bv.
