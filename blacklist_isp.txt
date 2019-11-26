@@ -1,6 +1,4 @@
 0x2A Datacenter
-DataShack, LC
-Ethoplex, LLC
 1 Gbits
 1&1 Internet
 1&1 Internet AG
@@ -302,6 +300,7 @@ Datapipe
 DataPlugs
 Datapoint
 Datasfera
+DataShack, LC
 DATASIX GmbH
 Datasoft Networks Inc.
 Datasource Ag
@@ -403,6 +402,7 @@ EstroWeb
 eStruxture Data Centers
 ESTT
 ethnohosting
+Ethoplex, LLC
 Ethr.net
 ethr.net
 eUKhost
@@ -537,6 +537,7 @@ Hetzner Online GmbH
 Heureka Shopping s.r.o.
 Heymman Servers
 High Speed Web, Inc.
+Highwinds Network Group, Inc.
 Hispaweb Network
 HitMe.pl
 Hivelocity Hosting
