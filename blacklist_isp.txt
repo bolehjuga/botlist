@@ -188,6 +188,7 @@ Ciberconceito
 CINIPAC
 Cirrus Tech Ltd
 CISHost
+Citizens Telephone Cooperative
 City Lifeline Data Centre
 City Network Hosting AB
 City of Windom
@@ -434,6 +435,7 @@ Fastweb
 Fastweb SpA
 fcloud.biz
 FDC Servers
+Feral Hosting
 Fevvo, Inc.
 Fiber Server
 fiberhub.com
@@ -944,6 +946,7 @@ Oracle Cloud
 Orange Polska
 OrangeWebsite (IceNetworks Ltd.)
 OVH
+OVH Australia PTY LTD
 OVH SAS
 Ovh Us LLC
 Oxilion BV
@@ -1080,6 +1083,7 @@ RTComm
 Rusonyx Ltd.
 RuWeb
 S2 Coltd
+S&T Slovenija d.d.
 Sadecehosting Turkey
 Safe Host SA
 Sakura Internet Inc.
@@ -1231,6 +1235,7 @@ Tentacle Networks Oy
 TenTen.vn
 TeraGo Networks
 TerraHost AS
+Tetaneutral.net
 Teuno
 teuto.net Netzdienste GmbH
 THC Projects SRL
