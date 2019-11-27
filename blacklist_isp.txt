@@ -3,34 +3,40 @@
 1&1 Internet
 1&1 Internet AG
 1-800-Hosting
+1000dedi.net
+180Servers
+1984 ehf.
 1blu.de
 1gb.ru
 2 Cloud Ltd.
-2dayhost.com
+21vianet
+23Media
+23VNet KFT
 2HOST
-ServeTheWorld AS
+2dayhost.com
+31173 Services Ab
+34Sp.com Ltd.
 3NT Solutions LLP
 3W Infra
 4D Data Centres Ltd.
 4rweb.com
-21vianet
-23Media
-23VNet KFT
-34Sp.com Ltd.
-180Servers
-1000dedi.net
-1984 ehf.
-31173 Services Ab
+A Small Orange, LLC.
 A1 Hosting
 A2 Hosting, Inc.
-A Small Orange, LLC.
-abdicar.com
+AIT
+ALL-INKL.COM
+ANEXIA Internetdienstleistungs GmbH
+ANZ.ru
+APYL Inc.
+ASNETID
+ATM S.A.
+AVAST
+AVIA Consulting, Inc
+AWS
 AbeloHost B.V.
 Ablative Hosting Ltd
 AccelerateBiz Inc.
-accelerated.de
 Acenet
-acens Technologies
 ActiveCloud
 ActiveHost
 ActiveWebs A/S
@@ -43,14 +49,12 @@ Afrihost (Pty) Ltd
 Agava Jsc
 AiNET
 Airnet
-AIT
 Akamai Technologies, Inc.
 Alfahosting
 Algar Telecom S/a
 Alibaba Cloud
 Alibaba Host
 Alistaro
-ALL-INKL.COM
 AllHostShop.com
 Alma
 AlmourolTec, Lda
@@ -67,33 +71,26 @@ Amazon AWS
 Amazon Web Services (AWS)
 Amazon.com
 Amazon.com, Inc.
-American Internet Services
 AmeriNOC
+American Internet Services
 Amsio B.V.
-ANEXIA Internetdienstleistungs GmbH
 Angani Ltd
 Angel Hosting
 Anonymous S.A
-anyNode
-ANZ.ru
 Apexhost
 Apollon
+AppNexus, Inc
 Apple Inc.
 Applied Operations
-AppNexus, Inc
-APYL Inc.
 Aqua Ray SAS
 Ardis Russia
 Ares Hosting
-argeweb
 Argon Data Communication
-argotel.ru
 Arsys internet S.L.
 Artnet Sp. z o.o.
 Aruba S.p.a
 Arvixe
 Asia Server Host
-ASNETID
 Assiniboine Community College
 Association Globenet
 Astute Hosting Inc.
@@ -102,33 +99,27 @@ Atak Domain Hosting
 Atjeu Publishing LLC
 Atlantic.Net
 Atlassian
-ATM S.A.
 Atomohost
 Aureon Network Services
 Automattic, Inc.
-availo.no
-avantehosting.net
-AVAST
 Avguro Technologies Ltd
-AVIA Consulting, Inc
 Avira
-awknet
-AWS
 Axigy
 Azar-A
 Azure
 B&P Interactive Ltd
 BAEHOST
+BEST-HOSTING s.r.o.
+BODHost
+BSB Service GmbH
+BSO Network Inc.
 Baidu Inc.
 Bandcon
-basefarm.com
 BeGet Ltd
 Behostings.be
 BelCloud Hosting Corporation
 Benzahosting.cl
 Best-Hoster Group Co. Ltd.
-BEST-HOSTING s.r.o.
-best-hosting.ro
 Beyond.pl
 Bhost Inc.
 Bigleaf Networks, Inc.
@@ -138,19 +129,17 @@ Bilrom
 Birbir İnternet Hizmetleri
 BitDefender
 Biznes-Host.pl
+BlackMesh
 Blackboard Inc.
 Blacklotus
-BlackMesh
-blackpulsehosting
 BlazingFast
 BlazingSEO
 Bleeping
 Blix Solutions
 Blue Mile
-Bluebird Network
 BlueConnex
+Bluebird Network
 Bluehost Inc.
-BODHost
 Bradler & Krantz GmbH & Co KG
 Brandwatch
 Braslink Network Inc
@@ -159,31 +148,32 @@ Breezle LLC
 Brinkster Communications Corp.
 Broadriver Inc.
 Broceliand SAS
-BSB Service GmbH
-BSO Network Inc.
-budgetbytes
 BurstNET
 BuyVM (frantech)
 BuyVM.net
 Bytemark Limited
-calPOP
+CASABLANCA INT s.r.o.
+CAT data center
+CCPG Solutions
+CEU Servers
+CH-Center
+CINIPAC
+CISHost
+CLARA ONLINE, Inc.
+CLOUD-52 (KW Datacenter)
+CORE TECHNOLOGIES SERVICES, INC.
+CUSTODIAN DC Ltd
 Canaca-com Inc.
 Canada Web Hosting
 Carat Networks
 Caravan Aero
-cari.net
 Caronet
-CASABLANCA INT s.r.o.
 Castlegem Ltd.
-CAT data center
 Catalyst Host
 Caterpillar, Inc.
-CCPG Solutions
 Ce Colo CZ
 Centrilogic, Inc
 Certified Hosting, LLC
-CEU Servers
-CH-Center
 Cherry Servers
 ChicagoVPS
 China Telecom Americas
@@ -191,62 +181,51 @@ Choopa LLC
 Choopa, LLC.
 ChunkHost
 Ciberconceito
-CINIPAC
 Cirrus Tech Ltd
-CISHost
 Citizens Telephone Cooperative
 City Lifeline Data Centre
 City Network Hosting AB
 City of Windom
 CityNet Host
-CLARA ONLINE, Inc.
 Claranet limited
 Claus Web
-Cloud9
 Cloud Builders, S.A.
 Cloud Host Pte Ltd
 Cloud South
 Cloud Star Hosting Services
-CLOUD-52 (KW Datacenter)
 Cloud.dk
-cloud:LINK
-CloudatCost
-Cloudeos
+Cloud9
 CloudFlare Inc
-Cloudi NextGen S.L.
-Cloudinfrastack, s.r.o
 CloudLix
-Cloudroute, LLC
 CloudSigma Holding AG
 CloudVPS (XLS Hosting)
+CloudatCost
+Cloudeos
+Cloudi NextGen S.L.
+Cloudinfrastack, s.r.o
+Cloudroute, LLC
 Cloudwatt
 Cloudzilla Netherlands
-co-location.com
 Coc Coc Company Limited.
 Codero
 Cogeco Peer 1
 Cogent Communications
 Coldwater Board of Public Utilities
-colo4dallas.com
-colo@
-colocall.net
 ColoCAT
+ColoCrossing
+ColoStore
 Colocation America Inc
 Colocity Pty Ltd
 Coloclue
-ColoCrossing
 Cologix, Inc.
 Colomx Llc
-ColoStore
 Combell
-comfoplace.com
 Commonwealth
 Commonwealth of Massachusetts
 Comodo
 Comodo Group, Inc.
 Compubyte Limited/UCOZ Ltd.
 Comtrance Gmbh
-comvive.com
 CondoInternet ISP
 Conetix
 Confluence Networks Inc
@@ -259,32 +238,34 @@ Contabo GmbH
 Contegix Llc.
 Contel Ooo
 Continuum Data Centers
-Coolhousing.net
 CoolVDS
+Coolhousing.net
 Coosto BV
-CORE TECHNOLOGIES SERVICES, INC.
 Core-Backbone GmbH
 CoreSpace,Inc.
-corponetsa.net
 Critical Impact Software, Inc.
 Croatian Web Hosting
-crosspointcolo.co.uk
 Crucial Paradigm Pty. Ltd
 Crystone AB
 CtrlS
-CUSTODIAN DC Ltd
 Cybercon
 Cyberfuel
-cybernetic-servers.co.uk
 Cyberonic
 Cyberverse
-cyberwurx.com
 Cyquator
 CyrusOne LLC
 Czech It Cluster
 D-hosting Germany
+DATASIX GmbH
+DC WEST
+DHAP CENTER S.L.
+DL HOST.
+DME Hosting
+DMIT, Inc.
+DNS Hosting
+DONWEB (Dattatec.com SRL)
+DSRack
 Dade Pardazi Mobinhost Co. Ltd
-daha.net
 DailyRazor
 Dalton Utilities
 Daou Technology
@@ -295,47 +276,35 @@ Data Foundry
 Data Shack
 Data Space Sp. z o.o.
 Data Xata
-data-centr.lv
-data-xata.com
-Database By Design, LLC
 DataCamp Limited
 DataCenter Finland Oy
-Datacenter Luxembourg
 DataClub
-datahata.by
-datahouse.nl
+DataPlugs
+DataShack, LC
+DataSpring s.r.o.
+Database By Design, LLC
+Datacenter Luxembourg
 Datalogic ADC
 Datapipe
-DataPlugs
 Datapoint
 Datasfera
-DataShack, LC
-DATASIX GmbH
 Datasoft Networks Inc.
 Datasource Ag
-DataSpring s.r.o.
 Datawagon
 Daticum
 Datotel
 Dbolical Pty Ltd Acn
 Dc74, Llc
-DC WEST
 Ddos Protections Ltd
 Debesynas
 DedFiberCo
+DediZULL
 Dedicated Servers
 Dediserv
-dediserve Ltd
-DediZULL
 Delta Bulgaria
-deltahost
-demos
 Deninet
 DepoDataCenter
 Devel.cz Lab s.r.o.
-deziweb
-dfw-datacenter.com
-DHAP CENTER S.L.
 Dhosting.pl Sp. Z O.o
 DiaHosting
 DigiCube
@@ -349,90 +318,68 @@ DigitalFyre Internet Solutions LLC.
 DigitalOcean
 DigitalOne AG
 DimeNOC
-dinahosting
 DirectSpace Networks
 DirectVPS
-directwebhost.org
 Distil, Inc
-DL HOST.
-DME Hosting
-DMIT, Inc.
-DNS Hosting
 DoD Network Information Center
 Dogado Gmbh
-domainfactory GmbH
 Dominios
-DONWEB (Dattatec.com SRL)
 Dotcom-Monitor, Inc.
-dotster.com
 DoubleGIS, LLC
 Dr.Web
 Dream Line Holding
 DreamHost
-DSRack
 Dunkel GmbH
 Duocast
 E-Commerce Park N.V.
-e.ventures
+EBOUNDHOST.com ADF
+EDIS GmbH
+ENAHOST s.r.o.
+ERIX-COLO
+ESC
+ESET
+ESTT
+EUROHOSTER Ltd.
+EVERHOST S.R.L.
+EZ Web Hosting, Inc.
+EZZI.net
 EarthLink Cloud
 EasyHost BVBA
 EasyHost Solution Ltd
-easyname GmbH
 Easyspace Ltd
-easyspeedy
-EBOUNDHOST.com ADF
 Ecatel
 Ecritel
 Edgewebhosting
-EDIS GmbH
-eHostIDC
-eHostingUSA
 Eightomic, LLC
 Eksen Bilişim
 Ekvia
-elitehost
 Elvsoft
-ENAHOST s.r.o.
 Encompass Digital Media
 Energy Group Networks
-eNovance
 Enzu Inc.
 EpioHost
 Equinix, Inc.
-ERIX-COLO
-ESC
-esds.co.in
-eSecureData
-eserver.ru
-ESET
-esited.com
 Esnet
 Estoxy
 EstroWeb
-eStruxture Data Centers
-ESTT
-ethnohosting
 Ethoplex, LLC
 Ethr.net
-eUKhost
-eukhost.com
-Eurobyte LLC
-EUROHOSTER Ltd.
 EuroVPS
-evanzo e-commerce GmbH
-everhost
-EVERHOST S.R.L.
-Evolucix
+Eurobyte LLC
 EvoVPS
+Evolucix
 Evymo s.r.o.
 Exabytes
 Excellent Hosting Sweden AB
 Exonet B.V.
 Experian plc
 Expro Sp. z o.o.
-EZ Web Hosting, Inc.
-EZZI.net
 F-Secure
+FASTVPS Eesti OÜ
+FDC Servers
+FREEhost.com.ua
+FSdata
+FTECH.VN
 Facebook, Inc.
 Faction
 Fairpoint Communications
@@ -441,15 +388,11 @@ Fast Serv Networks, LLC
 Fasthosts Internet Ltd
 Fastly, Inc.
 Fastmetrics
-FASTVPS Eesti OÜ
 Fastweb
 Fastweb SpA
-fcloud.biz
-FDC Servers
 Feral Hosting
 Fevvo, Inc.
 Fiber Server
-fiberhub.com
 Fibermax
 FinalTek.com
 Fine Group
@@ -457,8 +400,8 @@ FineVPN.com
 Firehost
 First Colo GmbH
 First Root UG
-Firstbyte
 FirstVDS
+Firstbyte
 Flexwebhosting BV
 FlokiNET
 Flops
@@ -470,10 +413,7 @@ Fornex Hosting S.l
 Forta Trust
 Fortress Integrated Technologies
 FreeFind.com
-FREEhost.com.ua
 Friend Hosting
-FSdata
-FTECH.VN
 Fujitsu Cloud
 Fusa Internet Services
 Fuse Internet Access
@@ -483,21 +423,23 @@ Future Hosting Inc
 G-Core Labs S.A.
 G-Data
 G-Hosting.cz
-galahost
+GARMTECH LP.
+GHOSTnet GmbH
+GINERNET SL
+GM host LLC
+GOHOST.KZ
+GPLHost
 GalaxyData
 Gandi SAS
-GARMTECH LP.
 Garrison Network Solutions LLC.
 Gearhost
 Geekion
 Genesys Informatica S.r.l.
 Gerrys Information Technology Pvt
-GHOSTnet GmbH
 Gigabit Hosting Sdn Bhd
 Gigahost ApS
 Gigas Hosting S.A.
 GigeNET
-GINERNET SL
 Github, Inc
 GleSYS Internet Services AB
 Global Cloud Infrastructure
@@ -505,25 +447,19 @@ Global Layer B.V.
 Global-e Datacenter B.V.
 GlobalTeleHost Corp.
 GloboTech Communications
-GM host LLC
 Gmo Internet, Inc
-go4cloud
 GoDaddy Operating Company, LLC.
 GoGrid
-GOHOST.KZ
-goneo Internet GmbH.
+GoRack
 GoodNet
 Google
 Google Cloud
 Google LLC
 Google Proxy
 Googlebot
-GoRack
-gorack.net
 Gorilla Servers
 Goscomb Technologies Ltd
 Gossamer Threads Inc.
-GPLHost
 Greatnet.de GmbH
 Green House Data, Inc
 Greenhost B.V.
@@ -531,16 +467,19 @@ Grid Telekom
 Grier Forensics
 Gyron Internet Ltd
 H1 Host
-h4hosting.eu
 H4Y Technologies LLC
 H5 Data Centers
+HEKKO.PL
+HOSTING90 systems s.r.o.
+HOSTLIFE
+HQ GmbH
+HZ Hosting Ltd
 Handy Networks LLC
 Hart voor Internetvrijheid
 Hatteland
 Heart Internet
 Heficed
 Heinlein Support GmbH
-HEKKO.PL
 HelloVPS
 Hetzner Online
 Hetzner Online GmbH
@@ -548,132 +487,120 @@ Heureka Shopping s.r.o.
 Heymman Servers
 High Speed Web, Inc.
 Highwinds Network Group, Inc.
+Highwinds Network Group, Inc.
 Hispaweb Network
 HitMe.pl
 Hivelocity Hosting
-home.pl S.A.
 HopOne
+HosTech
 Hosixy LLC
-Host1Plus
-Host1Plus Cloudstack services
-Host4Geeks LLC
 Host Department LLC
 Host Depot
 Host Europe
 Host Universal Pty Ltd
 Host Virtual, Inc
-Host-it
 Host-UA
-Hosta Rica
-Hostbasket
+Host-it
+Host1Plus
+Host1Plus Cloudstack services
+Host4Geeks LLC
 HostBrink
 HostDime.com, Inc.
-hosteam.pl
-HosTech
-Hoster Kg, Ltd
-hoster.by
-Hoster.KZ
-Hosteur SA
-hostex.lt
 HostGator
 HostGator.com LLC
-Hostgrad
-hosthane.com
 HostHatch
+HostKey
+HostMySite.com
+HostPark
+HostRocket
+HostRoyale Technologies Pvt Ltd
+HostRush
+HostSailor
+HostSpicy
+HostStore, Inc.
+HostUS
+HostUS Solutions LLC
+HostVenom, LLC.
+HostVentures
+Hosta Rica
+Hostbasket
+Hoster Kg, Ltd
+Hoster.KZ
+Hosteur SA
+Hostgrad
 Hosthatch Inc.
-hostinet.com
-HOSTING90 systems s.r.o.
 Hosting Concepts
 Hosting Ood.
 Hosting Services Inc.
 Hosting Solutions Internationa
 Hosting UK
 Hosting Ukraine Ltd.
-hosting.ua
-Hostinger
 HostingInside LTD.
-hostiran.net
+Hostinger
 Hostirian
 Hostiserver Ltd.
-HostKey
-HOSTLIFE
 Hostline.ru
-hostmark.pl
 Hostmaze INC
-HostMySite.com
-hostnet.nl
-HostPark
 Hostpoint AG
-hostpro.ua
-hostrevenda.com
-HostRocket
-HostRoyale Technologies Pvt Ltd
-HostRush
-HostSailor
 Hostslick
-HostSpicy
-HostStore, Inc.
 Hosttech Gmbh
-HostUS
-HostUS Solutions LLC
-HostVenom, LLC.
-HostVentures
 Hostway
 Hostwinds.com
-HQ GmbH
 Hqhost.net
 Huawei Cloud Service
-hugeserver
 Hupohost
 Hurricane Electic
 Hydra Communications Ltd.
-Hyperhosting
 HyperVPN
-HZ Hosting Ltd
-i3d.net
+Hyperhosting
 I7 Llc
 IBEE Hosting
 IBM
-icn.bg
 IDCloudHost (PT Cloud Hosting Indonesia)
-ideal-solution.org
-idealhosting
-Idee Inc.
-iFasNet LTD
 IGNUM, s.r.o.
-ihc.ru
-ihnetworks.net
-Ikoula Sas
 IM Level 7 SRL
 IMINGO
+INMOTION HOSTING, INC.
+INOVENTICA
+INXY LTD.
+IP Exchange GmbH
+IP Interactive
+IP Server
+IP ServerOne
+IP-Projects GmbH & Co. KG
+IPServer
+IPXcore
+IQ PL Sp. z o.o.
+IS Group B.V.
+ISPSystem
+ISPpro Internet KG
+ISPserver
+IT Lab Limited
+ITL Group
+IWS Networks
+Idee Inc.
+Ikoula Sas
 Immedion
 Imperanet
 Imperva, Inc.
 ImunifyAV
-inAsset
 Incero LLC.
-incubatec GmbH - Srl
 Indiana Data Center LLC
 IndoVirtue
 Inerail
 Infegy, Inc.
 Inferno Solutions
-infinitetech.eu
 Infinys
 Infium-1
-infiumhost.com
 Infobox
 Infomaniak Network SA
 Inline Internet Online Dienste GmbH
-inline.de
-INMOTION HOSTING, INC.
-INOVENTICA
 Input Output Flood LLC
 Integral Ad Science, Inc.
 Integrity
 Interactive Web Solutions Limited
 Intergrid Group Pty Ltd
-interhost
+Intergrid Group Pty Ltd
 Interhost.co.il
 Internap Corporation
 Internet Archive
@@ -682,94 +609,58 @@ Internet Info, S.r.o
 Internet Marketing Ninjas
 Internet Memory Research
 InternetVista SA
-interracks.com
-interscholz Internet Services GmbH Co. KG
 Interserver, Inc.
-intrascape
-INXY LTD.
-iomart Group plc
-iomart Hosting Ltd
-ionity
-IP Exchange GmbH
-IP Interactive
-IP Server
-IP ServerOne
-IP-Projects GmbH & Co. KG
-ip.ro
 Iperweb Ltd.
-ipglobe.net
-ipHouse
-iPipe International Corp
-IPServer
-IPXcore
-IQ PL Sp. z o.o.
-iqhost.ru
-IS Group B.V.
-iSERVER informacijske storitve d.o.o.
 IsimTescil.net
-ISPpro Internet KG
-ISPserver
-ISPSystem
 It7 Networks Inc
-IT Lab Limited
-ITL Group
 Itparad LLC
 Its Hosted
-itsoft.ru
-iWeb Technologies Inc.
-IWS Networks
-ix-host.ru
-ixam-hosting
-İyi Bir Host
 J2 Australia Hosting Pty Ltd
-j2 Global, Inc.
-Jagoan Hosting (Beon Intermedia)
 JEE.PL
-JoeS Datacenter, LLC
-Joyent Inc.
 JPMorgan
 JPMorgan Chase & Co.
 JSC RTComm.RU
 JSC Technical centre of Internet
+Jagoan Hosting (Beon Intermedia)
+JoeS Datacenter, LLC
+Joyent Inc.
 Jumpline Inc
-justhost.in.ua
 JustHost.ru
 K&k Corporation Ltd
+KEYWEB AG
+KLAYER LLC
+KONTENT GmbH
+KPMG LLP
+KV Solutions B.V.
+KVC Hosting LLC
+KW Datacenter CA
 Kakao Corporation
 Kamatera, Inc.
 Kaspersky
 Kaspersky Lab AO
 Kazakhtelecom Colocation
-KEYWEB AG
 Kharkov Server Ltd
 King Servers B.V.
 KingHost Hospedagem de Sites Ltda.
-kinx.net
-KLAYER LLC
 KnownHost LLC
 KnownSRV LTD
 KoDDoS.com
 Koehler Internet Services
-KONTENT GmbH
-KPMG LLP
 Krakowskie e-Centrum Informatyczne
 Krypt
 Kualo
-KV Solutions B.V.
-KVC Hosting LLC
-KW Datacenter CA
-kylos.pl
+LG DACOM Corporation
+LINK11 Gmbh
+LWS
 Lancom Ltd
 Landis Holdings Inc.
-latisys
-Layered Technologies Inc
 LayerHost.com
-leaderhost.ru
+Layered Technologies Inc
 LeapSwitch Networks Pvt
 LeaseVPS
 LeaseWeb
 Level 3 Communications
-LG DACOM Corporation
+LiWiNeA GmbH
 LightEdge Solutions, Inc.
 Lightspeed Systems, Inc.
 Lightstorm Communications s.r.o.
@@ -777,17 +668,15 @@ Limelight Networks Inc
 Limestone Networks
 Linehost DC
 Linevast Hosting
-LINK11 Gmbh
 LinkedIn
 LinkedIn Inc.
 Linode
 LionLink Networks
 Liquid Web
 LiquidNet Ltd
-LiWiNeA GmbH
 Local Dedicated
-Localhost S.a
 LocalTel Communications
+Localhost S.a
 Locaweb Serviços de Internet S/A
 LogicWeb Inc.
 LogicWorks
@@ -797,9 +686,13 @@ Loose Foot Computing Limited
 LoveServers LTD
 Luna Node
 Lunar Pages
-LWS
-M247 Ltd
 M247 LTD Oslo Infrastructure
+M247 Ltd
+MAXKO LLC.
+MGNHost.ru
+MIRhosting
+MSERWIS
+MUVHost
 Magic Online
 Mail.ru Llc
 Mailkit s.r.o.
@@ -807,107 +700,86 @@ Majordomo Llc
 Managed Data Solutions Pty Ltd
 Managed Hosting Services (Gorack)
 ManagedWay
-manitu GmbH
 MarkMonitor
 Markum.net
 Marosnet
 Master Internet
 Masterhost.ru
+MaxiPlace
 Maxihost LTDA
 Maxindo Mitra Solusi, PT
-MaxiPlace
-MAXKO LLC.
 McAfee
-mchost.ru
 Mean Servers Limited
 Media Temple
 Media-Hosts Inc.
 MediaSift Ltd
 Medyabim
-meerfarbig GmbH & Co. KG
-Megahost.dk
 MegaTR
+Megahost.dk
 MegiTeam
 Melbicom
 Melbikomas UAB
 Memset Ltd
-MGNHost.ru
 Micfo, LLC
 MicroHost
-Micron21
 MicroSerum Inc.
+Micron21
 Microsoft
 Microsoft Azure
 Microsoft Corporation
 Mihan Web Host
 MikroVPS Ltd.
-mirahost
-MIRhosting
-mirohost.net
 Missdomain Group AB
 MivoCloud S.R.L.
-mnogobyte.ru
 MojoHost
 MonkeyBrains
 MrHost
-mrhost.biz
-MSERWIS
-mtw.ru
-multacom.com
-MUVHost
 Mxhost
-My247Webhosting Llc
 My Server Planet Llc.
-myh2oservers.com
+My247Webhosting Llc
 MyHost.KG
-myhost.ua
-myLoc
-myVirtualserver.com
+NANO IT
+NAV COMMUNICATIONS S.R.L.
+NAVER Corp
+NEPHAX
+NETIO
+NFOrce Entertainment B.V.
+NK Support Ltd
+NS1
+NT-VPS.RU ((NTCOM)
+NWT iDC Data Service
+NYI
 Nagano - Hradec
 Name Intelligence Inc.
 Namecheap, Inc.
-NANO IT
 National Computer Systems Co Ltd
 Native Hosting
-natro.com
-NAV COMMUNICATIONS S.R.L.
-NAVER Corp
 Nazwa.pl Sp.z.o.o
-nbiserv.de
-ndchost.com
-nedzone.nl
 Nelax
 NeoHost
 NeoServer
 Neospire
-NEPHAX
 Net Data Centers, Inc.
 Net Style Development Ltd
 Net Systems Research
 NetAngels
-netbudur
+NetNation
+NetSilvania Hosting Services
 Netclusive GmbH
-netcup GmbH
 Netelligent
 Neterra, LLC.
-netEstate GmbH
 Netfronts, Inc.
 Netgroup Denmark
 Netinternet Bilisim Teknolojileri AS
-NETIO
 Netiran
-NetNation
 Netowl,Inc.
 Netplus Communication
 Netpoint Ltd
 Netregistry Pty Ltd
-netriplex
 Netrouting
-NetSilvania Hosting Services
 Netstack Cloud Services
 Netsys Global Telecom Limited
 Network Dynamics Pty Ltd
-netzozeker.nl
 Neustar, Inc.
 NewMedia Express Pte Ltd
 Newtek Technology Solutions, Inc
@@ -916,11 +788,6 @@ Nexeon Technologies, Inc
 Nexril (Corex Solutions LLC)
 Next Connex Ltd.
 Next Point Host
-NFOrce Entertainment B.V.
-nimbushosting.co.uk
-nine.ch
-niobeweb.net
-NK Support Ltd
 Nobis Technology Group, LLC
 Nodes Direct Holdings, LLC
 Nodisto It, LLC
@@ -928,21 +795,18 @@ North Carolina Research and Education Network
 North Hosts Limited
 Norton
 Novatrend Services Gmbh
-NS1
-NT-VPS.RU ((NTCOM)
-nthost.ru
-ntx.ru
-Nucleus bvba
 NuFuture Ltd
-nvhost.ru
-NWT iDC Data Service
-NYI
+Nucleus bvba
 O2Switch
+OJSC Rostelecom, Vladimir branch
+OOO Network of data-centers Selectel
+OVH
+OVH Australia PTY LTD
+OVH SAS
 Obenetwork AB
 Obone Gmbh
 Offshore Racks S.a
 Offshore Servers
-OJSC Rostelecom, Vladimir branch
 OkServers LLC
 Oktawave Sp. z o.o.
 Omnilance Ltd.
@@ -951,7 +815,6 @@ One Asia Host LLP
 One.com
 OneProvider
 Online SAS
-OOO Network of data-centers Selectel
 OpenHosting UK Internet Solutions
 Opera Software AS
 Oplink
@@ -963,82 +826,71 @@ Opus Interactive
 Oracle Cloud
 Orange Polska
 OrangeWebsite (IceNetworks Ltd.)
-OVH
-OVH Australia PTY LTD
-OVH SAS
 Ovh Us LLC
 Oxilion BV
 Oy Creanova Hosting Solutions Ltd
 Oz Servers Pty Ltd.
-ozhosting.com
 OÜ Web Hosting Solutions
+PCCW Solutions
+PCextreme B.V.
+POHODA-SERVIS spol. s r.o.
+PQ.HOSTING
+PRO ISP AS
+PROFITSERVER
+PROHOSTING LLC
+PROMETEUS
+PS.kz
+PT. JC Indonesia
+PT. Master Web Network
 Packet Host
 Packetexchange, Inc
 Pair Networks
 Palo Alto Networks
-panamaserver.com
 Panhandle Telecommunications Systems
 Pantheon
 PatrikWeb
-Paylicense
 PayPal
-PCCW Solutions
-pce-net
-PCextreme B.V.
-Peak10
+Paylicense
 Peak Web Hosting
+Peak10
 PenTeleData
 Perfect IP
 Persona Host
 Petersburg Internet Network ltd.
-pgHosting
 PhishTank
 Phoenix NAP, LLC
 PhoenixNap / Secured Servers
 Phpnet France Sarl
 Pickaweb Ltd
-PlanetaHost
 PlanetHoster
+PlanetaHost
 Planisys S.A.
 Platon Technologies s.r.o.
 PlusServer GmbH
 Plutex
-POHODA-SERVIS spol. s r.o.
 Pointer
 Portlane
 Portlane AB
 Power Up Hosting, Inc.
-PQ.HOSTING
 Premia Networks Corporation
 Prgmr.com, Inc
-prioritycolo.com
 Private Layer INC
 PrivateSystems.net
 Privax
 Privax Ltd.
-PRO ISP AS
 ProDos s.r.o.
-profihost
-PROFITSERVER
 ProHoster.info
-PROHOSTING LLC
-proinity GmbH
-prolocation.net
-PROMETEUS
 Prometey
-prq.se
-PS.kz
 Psychz Networks
 Psychz.net
-PT. JC Indonesia
-PT. Master Web Network
-Public Cloud Ltd
 PubMatic, Inc.
+Public Cloud Ltd
 Pulsant Ltd
 PulsePoint, Inc.
 PulseServers
-Qhoster Ltd
 QTS
+QWK.net
+Qhoster Ltd
 Quadranet, Inc
 Quadronet LLC
 Qualityhosting Ag
@@ -1046,25 +898,20 @@ Qualys, Inc.
 Quasar Data Center
 Query Foundry
 QuickPacket, LLC
-quickweb.co.nz
 Quintex
 Qwant SAS
-qweb
-QWK.net
+RM-iNJiNERiNG
+RTComm
 RackAlley LLC
 RackForce
-rackmarkt.com
 Rackplace NL
 Rackspace, Inc.
-racksrv
 Rackvibe.com
 Radore Hosting
-raKdigital
-Rambler&Co
 RamNode
 RamNode LLC
+Rambler&Co
 Ransom IT
-rapidhost.co.uk
 RapidSpeeds Servers LTD
 Razor
 Ready IDC
@@ -1074,44 +921,45 @@ Real Comm srl
 Real Hosts Limited
 Rebel Hosting
 Red Hat, Inc.
-redehost.com.br
 Redhosting B.V.
 Redstation Limited
 Reflected Networks
 Reg.ru
-register.it
 Registro .it
 Reliable Hosting
 ReliableSite.Net LLC
 Rent a Rack
 Reserver.ru
 Rethem Hosting Llc
-rh-tec Business GmbH
 Riffle
-rijndata.nl
 Rimu Hosting
 RisingNet
-RM-iNJiNERiNG
 Rook Media AG
 Root Level Technology
-root S.A.
 RootLayer Web Services LTD
 Rootwelt, LLC
 Roya Hosting
-RTComm
-Rusonyx Ltd.
 RuWeb
-S2 Coltd
+Rusonyx Ltd.
 S&T Slovenija d.d.
+S2 Coltd
+SBA Research gGmbH
+SBY-Telecom
+SIA Hostnet
+SKB Kontur
+SPOJE-NET
+SSDCloud.BG
+SV COLO
+SWITCH Communications Group LLC
+SYN LTD.
 Sadecehosting Turkey
 Safe Host SA
 Sakura Internet Inc.
 Savvis
-SBA Research gGmbH
-SBY-Telecom
 Scaleway
 Scoop.it, Inc.
 Scrub The Web
+SeFlow s.n.c
 Sectorlink, LLC
 Secure
 Secure Dragon LLC.
@@ -1123,37 +971,35 @@ Securewebs.com
 SeedVPS
 SeekQuarry, LLC
 Seeweb S.r.l
-SeFlow s.n.c
 Selectel Ltd.
 Semrush Inc
+ServInt
 Servachok
 Servage GmbH
 Servarica
 ServeByte LTD
+ServeTheWorld AS
 Servenet Solution Limited Partnership
 Server Axis
 Server Central Network
 Server Complete
 Server Green
-ServeraUkr
 ServerBeach Dedicated Servers
-serverboost.nl
 ServerCentral
-Servercentric
 ServerClub Inc.
-Servereasy Srl
 ServerHosh
 ServerHouse Ltd
 ServerHub
-Serveriai.lt
 ServerMania Inc.
+ServerSpace Limited
+ServeraUkr
+Servercentric
+Servereasy Srl
+Serveriai.lt
 Servers Australia
 Servers.com, Inc
-ServerSpace Limited
 ServiHosting Networks S.L.
-ServInt
 Servinus
-servisweb
 Seven Artisan Inc.
 SevenL Networks Inc
 Seznam.cz
@@ -1163,54 +1009,43 @@ Sharktech
 Sharktech Inc.
 Shinjiru Technology Sdn Bhd
 Shock Hosting LLC.
-SIA Hostnet
 Sigmanet Kft
 Silicon Valley Web Hosting
-simcentric
-simpliq.com
 SinaroHost LTD
 SingleHop
 Site5.com LLC
 SiteHost
 Siteimprove GmbH
 Siteserver
-SKB Kontur
-skHosting.eu s.r.o.
 Slask Data Center PL
 Slicehost/Rackspace
 Smart Cloud Hosting UK Ltd
 Smart Weblications Gmbh
-smart-hosting.ro
 SmartApe LLC
 Snel.com B.V.
-Softlayer
-SoftLayer Technologies. Inc.
 SoHosted
+SoftLayer Technologies. Inc.
+Softlayer
 Solar Communications Gmbh
 Solar VPS LLC
 SolarVPS
 Solido Hosting A/S
-sologigabit.com
 Sophos
 SpaceWeb LLC
 Sparkstation
 Spartan Host Ltd.
-sPD Hosting LTD.
 SpectraIP B.V.
 Speedbone Gmbh
-SPOJE-NET
 Springs Hosting
 Sprint S.A
 Sprinthost.ru
 Sprocket Networks
 Sputnik Llc
-SSDCloud.BG
-sshvps.net
 Stackpath, LLC
 Staminus Communications
 Star-Hosting e.K.
-steadfast.net
 Steep Host
+Stentor National Integrated Communications Network
 StepHost SRL
 Stone Internet Services BVBA
 Strato AG
@@ -1219,66 +1054,58 @@ Subnet Labs LLC
 Sucuri
 SunnyVision Limited.
 Sunshine Web Hosting, Inc
-Superdata
 SuperFlex
-superhost.pl
 SuperHosting.BG
 SuperHosting.BG Ltd.
 SuperNetwork s.r.o.
+Superdata
 Supernova s.r.l.
 Supreme Telecom Systems
 SurfControl
 SurfEasy Inc.
-SV COLO
 Swiftway
-SWITCH Communications Group LLC
 Switch Media Ltd
 Symantec
 Symantec Corporation
-SYN LTD.
 Sysomos L.P.
 Szervernet
 Szerverplex.hu Kft
 T-N Media Network
+TCT West
+TE Bilişim
+THC Projects SRL
+THINline s.r.o.
+TOPHOST S.r.l.
+TRUE.BY
 Tagadab Ltd.
 Tailor Made Servers
 Tailored VPS
 Take 2 Hosting
 TalkTalk
 Tangram Ukraine
-TCT West
-TE Bilişim
 TechAvenue
 Techie Media
 Tecnocrática Centro de Datos S.L.
 TehranHost
 TekTonic
 Telegram Messenger LLP
+TenTen.vn
 Tencent Cloud
 Tentacle Networks Oy
-TenTen.vn
 TeraGo Networks
 TerraHost AS
 Tetaneutral.net
 Teuno
-teuto.net Netzdienste GmbH
-THC Projects SRL
 The Bunker
 The Endurance International Group Inc
 TheHost
 Think Systems UK Ltd
-THINline s.r.o.
-thorn.net
 Thrust VPS
 Tier.Net
 TierPoint, LLC
-tilaa
-time-host.net
 TimeWeb Co. LTD
 Tiscali Cloud
 Titan Internet Ltd
-TOPHOST S.r.l.
-tops.net GmbH & Co. KG
 Total Server Solutions
 Totalin
 Trabia Network
@@ -1286,22 +1113,17 @@ Trabia-Network Limited
 Trader Soft Llc
 Tranquil Hosting
 Transip Bv.
-travailsystems.com
 Trend Micro
 TripAdvisor LLC
-Triple8 Network
 Triple C
-TRUE.BY
-trueserver.nl
+Triple8 Network
 TrueVDS
 Trustwave Holdings
 Tsohost
 Tsukaeru.net
-turhost.com
 Turkiye Telekom Datacenter
 Turnkey Internet
 TutHost
-tuxis.nl
 Twingly AB
 Twitter Inc.
 TwooIT
@@ -1311,19 +1133,19 @@ TÜRKYILMAZ Bilişim İnternet Hizmetleri
 UA VPS, LLC
 UAB Host Baltic
 UAB Interneto vizija
-uadomen.com
-Uber Global Pty Ltd
-Ubiquity Hosting
 UDomain
+UK Dedicated Servers LTD
 UK2 - Ltd
 UK2 Group
 UK2.NET
-UK Dedicated Servers LTD
 UKFast.Net Limited
-ukrainianhosting.com
+US Colo
+US Dedicated, LLC.
+US Department of Defense Network
+UZINFOCOM
+Uber Global Pty Ltd
+Ubiquity Hosting
 Ukrnames
-ukwebhosting.ltd.uk
-ultrasvps.com
 Unbelievable Machine
 Unelink Telecom S.A.
 Union Group LLC
@@ -1333,20 +1155,24 @@ University of California, San Diego
 Uniweb
 Unlimited Web Hosting Uk Ltd.
 UpCloud
-US Colo
-US Dedicated, LLC.
-US Department of Defense Network
 Usonyx Pte Ltd
 Utah Education Network
 Utel Datacenter
-uvensys GmbH
-UZINFOCOM
+VHoster UA
+VIRTBIZ Internet Services
+VMHaus Limited.
+VNET a.s.
+VPS Ace
+VPS4Less
+VPS6.NET
+VPSCheap.NET
+VPSVILLE
+VPSWebServer.com
+VSHosting s.r.o.
 Valvera s.r.o.
 Vautron AG
-vds64.com
 Veesp
 Veganet Teknolojileri ve Hizmetleri Ltd.
-velia.net Internetdienste GmbH
 Velocity Servers
 Velocity Servers Inc
 Venafi, Inc.
@@ -1357,24 +1183,18 @@ Verisign, Inc.
 Verizon Communications Inc.
 VersaWeb
 Versaweb LLC
-vexxhost web hosting
-VHoster UA
 ViaWest
 Vidahost
 Viet Online
 VinaHost Co., Ltd.
 Virpus Networks
 Virtacore Systems
-VIRTBIZ Internet Services
 Virtono Networks SRL
 Virtual Systems Llc
 Virty.io
 VirusTotal
 VisualHosting SRL
-vital_teknoloji
 Vivid-Hosting, LLC
-VMHaus Limited.
-VNET a.s.
 Volia Datacenter
 Volico
 Volume Drive
@@ -1383,99 +1203,283 @@ VooServers Ltd.
 Vorboss Limited
 Voxel
 Voxility
-VPS4Less
-VPS6.NET
-VPS Ace
-vps.ua
-VPSCheap.NET
-vpsFree.cz
 Vpsquan
-VPSVILLE
-VPSWebServer.com
-VSHosting s.r.o.
 Vultr
 Vultr Holdings LLC
+WEB LLC
+WEB4U s.r.o.
+WEBAXYS
+WEBD.PL
+WINFORMA Witschi
+WISTEE SAS
 Warpline
+Web Hosting UK
+Web Werks
+Web.com, Inc
 Web2Objects
 Web4Africa
 Web4ce, s.r.o.
-WEB4U s.r.o.
-Web Hosting UK
-WEB LLC
-Web Werks
-Web.com, Inc
-Webair Internet Development Inc
-Webalta
 WebARENA
-WEBAXYS
 WebControl GmbH
-WEBD.PL
-webexxpurts.com
-Webgo Gmbh
-webhoster.de
-Webhosting S.R.L.
-Webhosting.net
-WebhostOne GmbH
 WebNX Inc.
 WebReus
-Webroot
 WebRuimteHosting
-WebsiteWelcome.com
 WebSupport SK
-webvisions.com
 WebWeb.com
+Webair Internet Development Inc
+Webalta
+Webgo Gmbh
+WebhostOne GmbH
+Webhosting S.R.L.
+Webhosting.net
+Webroot
+WebsiteWelcome.com
 Webzilla, Inc.
 Wedos Internet, a.s
 Weebly
-wehostall
 Well-Web
 Weservit B.V.
-westhost
 WhiteLabel IT Solutions
 Wholesale Internet, Inc
 Wikimedia Foundation Inc
-WINFORMA Witschi
-wiredtree
 WiscNet
-WISTEE SAS
 World Hosting Farm LTD
 WorldStream
 Wotbox Team
 Wow Technologies, Inc.
 X5X, LLC
-x10hosting
-XenSpec
-xentime.com
-XeonBD
 XET Ltd.
-Xiolink
-Xirra GmbH
 XLHost.com Inc
 XMission
-xservers.ro
 XT Global Networks LTD
+XenSpec
+XeonBD
+Xiolink
+Xirra GmbH
 Xtraordinary Networks Limited
+YAR-TT
+YNT.COM.TR
 Yahoo! Inc.
 Yandex Llc.
-YAR-TT
 YesHost.Ru
 YesUp
 Yghost Inc
-yisp Netherlands
 Ykoon B.V.
-YNT.COM.TR
 YoHost.org
 YourColo
 YourLastHost
 Yourserver Sweden
-Zagat
 ZAP-Hosting GmbH & Co. KG
 ZBSCloud
-Zenlayer
 ZET servers Romania
 ZNET Telekom Zrt.
+Zagat
+Zenlayer
 Zoho Corporation Pvt. Ltd.
 Zone Media OÜ
 ZonerHost
 Zscaler
 Zwiebelfreunde e.V.
+abdicar.com
+accelerated.de
+acens Technologies
+anyNode
+argeweb
+argotel.ru
+availo.no
+avantehosting.net
+awknet
+basefarm.com
+best-hosting.ro
+blackpulsehosting
+budgetbytes
+calPOP
+cari.net
+cloud:LINK
+co-location.com
+colo4dallas.com
+colo@
+colocall.net
+comfoplace.com
+comvive.com
+corponetsa.net
+crosspointcolo.co.uk
+cybernetic-servers.co.uk
+cyberwurx.com
+daha.net
+data-centr.lv
+data-xata.com
+datahata.by
+datahouse.nl
+dediserve Ltd
+deltahost
+demos
+deziweb
+dfw-datacenter.com
+dinahosting
+directwebhost.org
+domainfactory GmbH
+dotster.com
+e.ventures
+eHostIDC
+eHostingUSA
+eNovance
+eSecureData
+eStruxture Data Centers
+eUKhost
+easyname GmbH
+easyspeedy
+elitehost
+esds.co.in
+eserver.ru
+esited.com
+ethnohosting
+eukhost.com
+evanzo e-commerce GmbH
+everhost
+fcloud.biz
+fiberhub.com
+galahost
+go4cloud
+goneo Internet GmbH.
+gorack.net
+h4hosting.eu
+home.pl S.A.
+hosteam.pl
+hoster.by
+hostex.lt
+hosthane.com
+hostinet.com
+hosting.ua
+hostiran.net
+hostmark.pl
+hostnet.nl
+hostpro.ua
+hostrevenda.com
+hugeserver
+i3d.net
+iFasNet LTD
+iPipe International Corp
+iSERVER informacijske storitve d.o.o.
+iWeb Technologies Inc.
+icn.bg
+ideal-solution.org
+idealhosting
+ihc.ru
+ihnetworks.net
+inAsset
+incubatec GmbH - Srl
+infinitetech.eu
+infiumhost.com
+inline.de
+interhost
+interracks.com
+interscholz Internet Services GmbH Co. KG
+intrascape
+iomart Group plc
+iomart Hosting Ltd
+ionity
+ip.ro
+ipHouse
+ipglobe.net
+iqhost.ru
+itsoft.ru
+ix-host.ru
+ixam-hosting
+j2 Global, Inc.
+justhost.in.ua
+kinx.net
+kylos.pl
+latisys
+leaderhost.ru
+manitu GmbH
+mchost.ru
+meerfarbig GmbH & Co. KG
+mirahost
+mirohost.net
+mnogobyte.ru
+mrhost.biz
+mtw.ru
+multacom.com
+myLoc
+myVirtualserver.com
+myh2oservers.com
+myhost.ua
+natro.com
+nbiserv.de
+ndchost.com
+nedzone.nl
+netEstate GmbH
+netbudur
+netcup GmbH
+netriplex
+netzozeker.nl
+nimbushosting.co.uk
+nine.ch
+niobeweb.net
+nthost.ru
+ntx.ru
+nvhost.ru
+ozhosting.com
+panamaserver.com
+pce-net
+pgHosting
+prioritycolo.com
+profihost
+proinity GmbH
+prolocation.net
+prq.se
+quickweb.co.nz
+qweb
+raKdigital
+rackmarkt.com
+racksrv
+rapidhost.co.uk
+redehost.com.br
+register.it
+rh-tec Business GmbH
+rijndata.nl
+root S.A.
+sPD Hosting LTD.
+serverboost.nl
+servisweb
+simcentric
+simpliq.com
+skHosting.eu s.r.o.
+smart-hosting.ro
+sologigabit.com
+sshvps.net
+steadfast.net
+superhost.pl
+teuto.net Netzdienste GmbH
+thorn.net
+tilaa
+time-host.net
+tops.net GmbH & Co. KG
+travailsystems.com
+trueserver.nl
+turhost.com
+tuxis.nl
+uadomen.com
+ukrainianhosting.com
+ukwebhosting.ltd.uk
+ultrasvps.com
+uvensys GmbH
+vds64.com
+velia.net Internetdienste GmbH
+vexxhost web hosting
+vital_teknoloji
+vps.ua
+vpsFree.cz
+webexxpurts.com
+webhoster.de
+webvisions.com
+wehostall
+westhost
+wiredtree
+www.heficed.com
+x10hosting
+xentime.com
+xservers.ro
+yisp Netherlands
+İyi Bir Host
