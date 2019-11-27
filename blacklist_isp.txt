@@ -8,6 +8,7 @@
 2 Cloud Ltd.
 2dayhost.com
 2HOST
+ServeTheWorld AS
 3NT Solutions LLP
 3W Infra
 4D Data Centres Ltd.
@@ -68,7 +69,6 @@ Amazon.com
 Amazon.com, Inc.
 American Internet Services
 AmeriNOC
-amerinoc
 Amsio B.V.
 ANEXIA Internetdienstleistungs GmbH
 Angani Ltd
@@ -109,7 +109,6 @@ Automattic, Inc.
 availo.no
 avantehosting.net
 AVAST
-Avast
 Avguro Technologies Ltd
 AVIA Consulting, Inc
 Avira
@@ -300,7 +299,6 @@ data-centr.lv
 data-xata.com
 Database By Design, LLC
 DataCamp Limited
-Datacamp Limited
 DataCenter Finland Oy
 Datacenter Luxembourg
 DataClub
@@ -371,7 +369,6 @@ DoubleGIS, LLC
 Dr.Web
 Dream Line Holding
 DreamHost
-Dreamhost
 DSRack
 Dunkel GmbH
 Duocast
@@ -417,7 +414,6 @@ ESTT
 ethnohosting
 Ethoplex, LLC
 Ethr.net
-ethr.net
 eUKhost
 eukhost.com
 Eurobyte LLC
@@ -1456,7 +1452,6 @@ Xiolink
 Xirra GmbH
 XLHost.com Inc
 XMission
-Xmission
 xservers.ro
 XT Global Networks LTD
 Xtraordinary Networks Limited
