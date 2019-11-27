@@ -137,6 +137,7 @@ Bigtip, Inc
 Bilge Hosting
 Bilrom
 Birbir İnternet Hizmetleri
+BitDefender
 Biznes-Host.pl
 Blackboard Inc.
 Blacklotus
@@ -144,6 +145,7 @@ BlackMesh
 blackpulsehosting
 BlazingFast
 BlazingSEO
+Bleeping
 Blix Solutions
 Blue Mile
 Bluebird Network
@@ -241,6 +243,7 @@ Combell
 comfoplace.com
 Commonwealth
 Commonwealth of Massachusetts
+Comodo
 Comodo Group, Inc.
 Compubyte Limited/UCOZ Ltd.
 Comtrance Gmbh
@@ -364,6 +367,7 @@ DONWEB (Dattatec.com SRL)
 Dotcom-Monitor, Inc.
 dotster.com
 DoubleGIS, LLC
+Dr.Web
 Dream Line Holding
 DreamHost
 Dreamhost
@@ -480,6 +484,7 @@ Fusioned Ltd.
 Future Hosting
 Future Hosting Inc
 G-Core Labs S.A.
+G-Data
 G-Hosting.cz
 galahost
 GalaxyData
@@ -815,6 +820,7 @@ Maxihost LTDA
 Maxindo Mitra Solusi, PT
 MaxiPlace
 MAXKO LLC.
+McAfee
 mchost.ru
 Mean Servers Limited
 Media Temple
@@ -989,6 +995,7 @@ Perfect IP
 Persona Host
 Petersburg Internet Network ltd.
 pgHosting
+PhishTank
 Phoenix NAP, LLC
 PhoenixNap / Secured Servers
 Phpnet France Sarl
@@ -1109,6 +1116,7 @@ Scaleway
 Scoop.it, Inc.
 Scrub The Web
 Sectorlink, LLC
+Secure
 Secure Dragon LLC.
 Secure Hosting Limited
 Secure Private Network
@@ -1186,6 +1194,7 @@ Solar VPS LLC
 SolarVPS
 Solido Hosting A/S
 sologigabit.com
+Sophos
 SpaceWeb LLC
 Sparkstation
 Spartan Host Ltd.
@@ -1210,6 +1219,7 @@ Stone Internet Services BVBA
 Strato AG
 StumbleUpon, Inc.
 Subnet Labs LLC
+Sucuri
 SunnyVision Limited.
 Sunshine Web Hosting, Inc
 Superdata
@@ -1280,6 +1290,7 @@ Trader Soft Llc
 Tranquil Hosting
 Transip Bv.
 travailsystems.com
+Trend Micro
 TripAdvisor LLC
 Triple8 Network
 Triple C
@@ -1361,6 +1372,7 @@ VIRTBIZ Internet Services
 Virtono Networks SRL
 Virtual Systems Llc
 Virty.io
+VirusTotal
 VisualHosting SRL
 vital_teknoloji
 Vivid-Hosting, LLC
@@ -1409,6 +1421,7 @@ Webhosting.net
 WebhostOne GmbH
 WebNX Inc.
 WebReus
+Webroot
 WebRuimteHosting
 WebsiteWelcome.com
 WebSupport SK
@@ -1459,6 +1472,7 @@ YoHost.org
 YourColo
 YourLastHost
 Yourserver Sweden
+Zagat
 ZAP-Hosting GmbH & Co. KG
 ZBSCloud
 Zenlayer
@@ -1467,4 +1481,5 @@ ZNET Telekom Zrt.
 Zoho Corporation Pvt. Ltd.
 Zone Media OÜ
 ZonerHost
+Zscaler
 Zwiebelfreunde e.V.
