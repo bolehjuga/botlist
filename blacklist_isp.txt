@@ -65,6 +65,7 @@ Amazon
 Amazon AWS
 Amazon Web Services (AWS)
 Amazon.com
+Amazon.com, Inc.
 American Internet Services
 AmeriNOC
 amerinoc
@@ -108,8 +109,10 @@ Automattic, Inc.
 availo.no
 avantehosting.net
 AVAST
+Avast
 Avguro Technologies Ltd
 AVIA Consulting, Inc
+Avira
 awknet
 AWS
 Axigy
@@ -143,6 +146,7 @@ BlazingFast
 BlazingSEO
 Blix Solutions
 Blue Mile
+Bluebird Network
 BlueConnex
 Bluehost Inc.
 BODHost
@@ -172,6 +176,7 @@ CASABLANCA INT s.r.o.
 Castlegem Ltd.
 CAT data center
 Catalyst Host
+Caterpillar, Inc.
 CCPG Solutions
 Ce Colo CZ
 Centrilogic, Inc
@@ -234,6 +239,8 @@ Colomx Llc
 ColoStore
 Combell
 comfoplace.com
+Commonwealth
+Commonwealth of Massachusetts
 Comodo Group, Inc.
 Compubyte Limited/UCOZ Ltd.
 Comtrance Gmbh
@@ -395,6 +402,7 @@ ESC
 esds.co.in
 eSecureData
 eserver.ru
+ESET
 esited.com
 Esnet
 Estoxy
@@ -639,6 +647,7 @@ IMINGO
 Immedion
 Imperanet
 Imperva, Inc.
+ImunifyAV
 inAsset
 Incero LLC.
 incubatec GmbH - Srl
@@ -716,6 +725,8 @@ Jagoan Hosting (Beon Intermedia)
 JEE.PL
 JoeS Datacenter, LLC
 Joyent Inc.
+JPMorgan
+JPMorgan Chase & Co.
 JSC RTComm.RU
 JSC Technical centre of Internet
 Jumpline Inc
@@ -912,6 +923,7 @@ Nodes Direct Holdings, LLC
 Nodisto It, LLC
 North Carolina Research and Education Network
 North Hosts Limited
+Norton
 Novatrend Services Gmbh
 NS1
 NT-VPS.RU ((NTCOM)
@@ -1214,6 +1226,8 @@ SV COLO
 Swiftway
 SWITCH Communications Group LLC
 Switch Media Ltd
+Symantec
+Symantec Corporation
 SYN LTD.
 Sysomos L.P.
 Szervernet
