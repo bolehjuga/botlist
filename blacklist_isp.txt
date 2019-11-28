@@ -8,6 +8,7 @@ DataBank Holdings, Ltd.
 'OBIT' Ltd.
 Department of Education
 Ipg
+Finance
 Bank
 Tax
 Hosting
