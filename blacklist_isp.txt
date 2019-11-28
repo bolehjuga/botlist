@@ -211,7 +211,7 @@ Cherry Servers
 ChicagoVPS
 China Telecom Americas
 Choopa LLC
-Choopa, LLC.
+Choopa, LLC
 ChunkHost
 Ciberconceito
 Cirrus Tech Ltd
