@@ -11,6 +11,7 @@ Bank
 Tax
 Hosting
 Cloud
+Eonix
 Institute
 Education
 Capital One Financial Corporation
