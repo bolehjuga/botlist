@@ -6,6 +6,11 @@
 1000dedi.net
 Hivelocity
 F3 Netze e.V.
+TalkTalk Communications Limited
+UK-2 Limited
+Emerald Onion
+ArubaCloud Limited
+DigitalOcean, LLC
 EGIHosting
 GTT
 Bonneville Power Administration
