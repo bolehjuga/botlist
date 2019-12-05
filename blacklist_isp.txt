@@ -1,6 +1,8 @@
 0x2A Datacenter
 1 Gbits
 Itec Hankyu Hanshin Co.,ltd.
+Zencurity ApS
+Security
 1&1 Internet
 1&1 Internet AG
 Private Layer INC
