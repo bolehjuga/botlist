@@ -5,6 +5,7 @@ Zencurity ApS
 Ipax Og
 Amazon.com Inc.
 Amazon
+Amazon.com,
 Security
 MyServerPlanet Ltd
 Amazon Technologies Inc.
