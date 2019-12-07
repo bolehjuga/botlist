@@ -8,7 +8,6 @@ Google Proxy
 GoogleBot
 GoogleImageProxy
 Jobboerse
-Microsoft Edge
 Jyxobot
 LinkArchiver
 LinkedInBot
