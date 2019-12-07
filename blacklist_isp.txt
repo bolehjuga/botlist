@@ -1,84 +1,15 @@
+'OBIT' Ltd.
 0x2A Datacenter
 1 Gbits
-Itec Hankyu Hanshin Co.,ltd.
-Zencurity ApS
-Ipax Og
-M247 Europe SRL
-Amazon.com Inc.
-Amazon
-Hostkey B.V.
-Amazon.com,
-Security
-MyServerPlanet Ltd
-Amazon Technologies Inc.
 1&1 Internet
-Juno Networks Inc
 1&1 Internet AG
-Private Layer INC
-GoDaddy.com LLC
-eircom Limited
-Amazon Data Services Brazil
-Xnet Internet Services (Pty) Ltd
-ElisiyumNetwork
-JSC The First
-Powerhouse Management, Inc.
 1-800-Hosting
 1000dedi.net
-Hivelocity
-TDC A/s
-F3 Netze e.V.
-Dataline LLC
-AVAST Software s.r.o.
-TalkTalk Communications Limited
-UK-2 Limited
-Emerald Onion
-ArubaCloud Limited
-DigitalOcean, LLC
-EGIHosting
-GTT
-Bonneville Power Administration
-United States Cellular Telephone Company (greater Knoxville), L.P.
-DataBank Holdings, Ltd.
-'OBIT' Ltd.
-Department of Education
-Ipg
-CFN Services Inc.
-Community Network Center Inc.
-Finance
-Bank
-Tax
-Hosting
-Cloud
-INTERNET SK, sro
-NTT America
-Eonix
-Institute
-Education
-Capital One Financial Corporation
-Kennesaw State University
-Fuse Internet Access
-ColoUp
-University
-Cloudvpn Inc.
-Hosting Services, Inc.
-Georgia Institute of Technology
-PSINet, Inc.
-Commtouch Inc.
-Macys Systems and Technology
-Telx
-Square, Inc.
-Salk Institute
-Minnesota Wild
-New York State Unified Court System
 180Servers
 1984 ehf.
 1blu.de
 1gb.ru
 2 Cloud Ltd.
-Xneelo (Pty) Ltd
-Digital Energy Technologies Limited
-Jose Antonio Ruiz Zamore
-CS Technologies
 21vianet
 23Media
 23VNet KFT
@@ -101,6 +32,7 @@ APYL Inc.
 ASNETID
 ATM S.A.
 AVAST
+AVAST Software s.r.o.
 AVIA Consulting, Inc
 AWS
 AbeloHost B.V.
@@ -113,6 +45,7 @@ ActiveWebs A/S
 Adform A/S
 Adix BV
 Adman
+Administration
 AdvancedHosters
 Advania
 Afrihost (Pty) Ltd
@@ -138,8 +71,12 @@ Amanah Tech
 Amanah Tech Inc
 Amazon
 Amazon AWS
+Amazon Data Services Brazil
+Amazon Technologies Inc.
 Amazon Web Services (AWS)
 Amazon.com
+Amazon.com Inc.
+Amazon.com,
 Amazon.com, Inc.
 AmeriNOC
 American Internet Services
@@ -159,6 +96,7 @@ Argon Data Communication
 Arsys internet S.L.
 Artnet Sp. z o.o.
 Aruba S.p.a
+ArubaCloud Limited
 Arvixe
 Asia Server Host
 Assiniboine Community College
@@ -185,6 +123,7 @@ BSB Service GmbH
 BSO Network Inc.
 Baidu Inc.
 Bandcon
+Bank
 BeGet Ltd
 Behostings.be
 BelCloud Hosting Corporation
@@ -210,6 +149,7 @@ Blue Mile
 BlueConnex
 Bluebird Network
 Bluehost Inc.
+Bonneville Power Administration
 Bradler & Krantz GmbH & Co KG
 Brandwatch
 Braslink Network Inc
@@ -226,15 +166,18 @@ CASABLANCA INT s.r.o.
 CAT data center
 CCPG Solutions
 CEU Servers
+CFN Services Inc.
 CH-Center
 CINIPAC
 CISHost
 CLARA ONLINE, Inc.
 CLOUD-52 (KW Datacenter)
 CORE TECHNOLOGIES SERVICES, INC.
+CS Technologies
 CUSTODIAN DC Ltd
 Canaca-com Inc.
 Canada Web Hosting
+Capital One Financial Corporation
 Carat Networks
 Caravan Aero
 Caronet
@@ -259,6 +202,7 @@ City of Windom
 CityNet Host
 Claranet limited
 Claus Web
+Cloud
 Cloud Builders, S.A.
 Cloud Host Pte Ltd
 Cloud South
@@ -274,6 +218,7 @@ Cloudeos
 Cloudi NextGen S.L.
 Cloudinfrastack, s.r.o
 Cloudroute, LLC
+Cloudvpn Inc.
 Cloudwatt
 Cloudzilla Netherlands
 Coc Coc Company Limited.
@@ -284,6 +229,7 @@ Coldwater Board of Public Utilities
 ColoCAT
 ColoCrossing
 ColoStore
+ColoUp
 Colocation America Inc
 Colocity Pty Ltd
 Coloclue
@@ -292,6 +238,8 @@ Colomx Llc
 Combell
 Commonwealth
 Commonwealth of Massachusetts
+Commtouch Inc.
+Community Network Center Inc.
 Comodo
 Comodo Group, Inc.
 Compubyte Limited/UCOZ Ltd.
@@ -346,6 +294,7 @@ Data Foundry
 Data Shack
 Data Space Sp. z o.o.
 Data Xata
+DataBank Holdings, Ltd.
 DataCamp Limited
 DataCenter Finland Oy
 DataClub
@@ -354,6 +303,7 @@ DataShack, LC
 DataSpring s.r.o.
 Database By Design, LLC
 Datacenter Luxembourg
+Dataline LLC
 Datalogic ADC
 Datapipe
 Datapoint
@@ -373,6 +323,7 @@ Dedicated Servers
 Dediserv
 Delta Bulgaria
 Deninet
+Department of Education
 DepoDataCenter
 Devel.cz Lab s.r.o.
 Dhosting.pl Sp. Z O.o
@@ -380,12 +331,14 @@ DiaHosting
 DigiCube
 Digirock, Inc
 Digital Energy Technologies Chile SpA
+Digital Energy Technologies Limited
 Digital Network JSC
 Digital Ocean
 Digital Ocean, Inc
 Digital Pacific
 DigitalFyre Internet Solutions LLC.
 DigitalOcean
+DigitalOcean, LLC
 DigitalOne AG
 DimeNOC
 DirectSpace Networks
@@ -404,6 +357,7 @@ Duocast
 E-Commerce Park N.V.
 EBOUNDHOST.com ADF
 EDIS GmbH
+EGIHosting
 ENAHOST s.r.o.
 ERIX-COLO
 ESC
@@ -420,13 +374,17 @@ Easyspace Ltd
 Ecatel
 Ecritel
 Edgewebhosting
+Education
 Eightomic, LLC
 Eksen Bilişim
 Ekvia
+ElisiyumNetwork
 Elvsoft
+Emerald Onion
 Encompass Digital Media
 Energy Group Networks
 Enzu Inc.
+Eonix
 EpioHost
 Equinix, Inc.
 Esnet
@@ -445,6 +403,7 @@ Exonet B.V.
 Experian plc
 Expro Sp. z o.o.
 F-Secure
+F3 Netze e.V.
 FASTVPS Eesti OÜ
 FDC Servers
 FREEhost.com.ua
@@ -465,6 +424,7 @@ Fevvo, Inc.
 Fiber Server
 Fibermax
 FinalTek.com
+Finance
 Fine Group
 FineVPN.com
 Firehost
@@ -499,12 +459,14 @@ GINERNET SL
 GM host LLC
 GOHOST.KZ
 GPLHost
+GTT
 GalaxyData
 Gandi SAS
 Garrison Network Solutions LLC.
 Gearhost
 Geekion
 Genesys Informatica S.r.l.
+Georgia Institute of Technology
 Gerrys Information Technology Pvt
 Gigabit Hosting Sdn Bhd
 Gigahost ApS
@@ -519,6 +481,7 @@ GlobalTeleHost Corp.
 GloboTech Communications
 Gmo Internet, Inc
 GoDaddy Operating Company, LLC.
+GoDaddy.com LLC
 GoGrid
 GoRack
 GoodNet
@@ -557,9 +520,9 @@ Heureka Shopping s.r.o.
 Heymman Servers
 High Speed Web, Inc.
 Highwinds Network Group, Inc.
-Highwinds Network Group, Inc.
 Hispaweb Network
 HitMe.pl
+Hivelocity
 Hivelocity Hosting
 HopOne
 HosTech
@@ -599,9 +562,11 @@ Hoster.KZ
 Hosteur SA
 Hostgrad
 Hosthatch Inc.
+Hosting
 Hosting Concepts
 Hosting Ood.
 Hosting Services Inc.
+Hosting Services, Inc.
 Hosting Solutions Internationa
 Hosting UK
 Hosting Ukraine Ltd.
@@ -609,6 +574,7 @@ HostingInside LTD.
 Hostinger
 Hostirian
 Hostiserver Ltd.
+Hostkey B.V.
 Hostline.ru
 Hostmaze INC
 Hostpoint AG
@@ -632,6 +598,7 @@ IM Level 7 SRL
 IMINGO
 INMOTION HOSTING, INC.
 INOVENTICA
+INTERNET SK, sro
 INXY LTD.
 IP Exchange GmbH
 IP Interactive
@@ -666,10 +633,10 @@ Infobox
 Infomaniak Network SA
 Inline Internet Online Dienste GmbH
 Input Output Flood LLC
+Institute
 Integral Ad Science, Inc.
 Integrity
 Interactive Web Solutions Limited
-Intergrid Group Pty Ltd
 Intergrid Group Pty Ltd
 Interhost.co.il
 Internap Corporation
@@ -680,9 +647,12 @@ Internet Marketing Ninjas
 Internet Memory Research
 InternetVista SA
 Interserver, Inc.
+Ipax Og
 Iperweb Ltd.
+Ipg
 IsimTescil.net
 It7 Networks Inc
+Itec Hankyu Hanshin Co.,ltd.
 Itparad LLC
 Its Hosted
 J2 Australia Hosting Pty Ltd
@@ -691,10 +661,13 @@ JPMorgan
 JPMorgan Chase & Co.
 JSC RTComm.RU
 JSC Technical centre of Internet
+JSC The First
 Jagoan Hosting (Beon Intermedia)
 JoeS Datacenter, LLC
+Jose Antonio Ruiz Zamore
 Joyent Inc.
 Jumpline Inc
+Juno Networks Inc
 JustHost.ru
 K&k Corporation Ltd
 KEYWEB AG
@@ -709,6 +682,7 @@ Kamatera, Inc.
 Kaspersky
 Kaspersky Lab AO
 Kazakhtelecom Colocation
+Kennesaw State University
 Kharkov Server Ltd
 King Servers B.V.
 KingHost Hospedagem de Sites Ltda.
@@ -756,6 +730,7 @@ Loose Foot Computing Limited
 LoveServers LTD
 Luna Node
 Lunar Pages
+M247 Europe SRL
 M247 LTD Oslo Infrastructure
 M247 Ltd
 MAXKO LLC.
@@ -763,6 +738,7 @@ MGNHost.ru
 MIRhosting
 MSERWIS
 MUVHost
+Macys Systems and Technology
 Magic Online
 Mail.ru Llc
 Mailkit s.r.o.
@@ -799,6 +775,7 @@ Microsoft Azure
 Microsoft Corporation
 Mihan Web Host
 MikroVPS Ltd.
+Minnesota Wild
 Missdomain Group AB
 MivoCloud S.R.L.
 MojoHost
@@ -808,6 +785,7 @@ Mxhost
 My Server Planet Llc.
 My247Webhosting Llc
 MyHost.KG
+MyServerPlanet Ltd
 NANO IT
 NAV COMMUNICATIONS S.R.L.
 NAVER Corp
@@ -817,6 +795,7 @@ NFOrce Entertainment B.V.
 NK Support Ltd
 NS1
 NT-VPS.RU ((NTCOM)
+NTT America
 NWT iDC Data Service
 NYI
 Nagano - Hradec
@@ -851,6 +830,7 @@ Netstack Cloud Services
 Netsys Global Telecom Limited
 Network Dynamics Pty Ltd
 Neustar, Inc.
+New York State Unified Court System
 NewMedia Express Pte Ltd
 Newtek Technology Solutions, Inc
 Nexcess.Net, LLC
@@ -910,6 +890,7 @@ PROFITSERVER
 PROHOSTING LLC
 PROMETEUS
 PS.kz
+PSINet, Inc.
 PT. JC Indonesia
 PT. Master Web Network
 Packet Host
@@ -942,6 +923,7 @@ Pointer
 Portlane
 Portlane AB
 Power Up Hosting, Inc.
+Powerhouse Management, Inc.
 Premia Networks Corporation
 Prgmr.com, Inc
 Private Layer INC
@@ -1025,6 +1007,7 @@ SYN LTD.
 Sadecehosting Turkey
 Safe Host SA
 Sakura Internet Inc.
+Salk Institute
 Savvis
 Scaleway
 Scoop.it, Inc.
@@ -1038,6 +1021,7 @@ Secure Private Network
 Secure Servers
 Secured Servers LLC
 Securewebs.com
+Security
 SeedVPS
 SeekQuarry, LLC
 Seeweb S.r.l
@@ -1111,6 +1095,7 @@ Sprint S.A
 Sprinthost.ru
 Sprocket Networks
 Sputnik Llc
+Square, Inc.
 Stackpath, LLC
 Staminus Communications
 Star-Hosting e.K.
@@ -1142,6 +1127,7 @@ Szervernet
 Szerverplex.hu Kft
 T-N Media Network
 TCT West
+TDC A/s
 TE Bilişim
 THC Projects SRL
 THINline s.r.o.
@@ -1152,13 +1138,16 @@ Tailor Made Servers
 Tailored VPS
 Take 2 Hosting
 TalkTalk
+TalkTalk Communications Limited
 Tangram Ukraine
+Tax
 TechAvenue
 Techie Media
 Tecnocrática Centro de Datos S.L.
 TehranHost
 TekTonic
 Telegram Messenger LLP
+Telx
 TenTen.vn
 Tencent Cloud
 Tentacle Networks Oy
@@ -1205,6 +1194,7 @@ UAB Host Baltic
 UAB Interneto vizija
 UDomain
 UK Dedicated Servers LTD
+UK-2 Limited
 UK2 - Ltd
 UK2 Group
 UK2.NET
@@ -1220,7 +1210,9 @@ Unbelievable Machine
 Unelink Telecom S.A.
 Union Group LLC
 Uniserver NL
+United States Cellular Telephone Company (greater Knoxville), L.P.
 Unithost Internet B.V.
+University
 University of California, San Diego
 Uniweb
 Unlimited Web Hosting Uk Ltd.
@@ -1325,6 +1317,8 @@ XenSpec
 XeonBD
 Xiolink
 Xirra GmbH
+Xneelo (Pty) Ltd
+Xnet Internet Services (Pty) Ltd
 Xtraordinary Networks Limited
 YAR-TT
 YNT.COM.TR
@@ -1343,6 +1337,7 @@ ZBSCloud
 ZET servers Romania
 ZNET Telekom Zrt.
 Zagat
+Zencurity ApS
 Zenlayer
 Zoho Corporation Pvt. Ltd.
 Zone Media OÜ
@@ -1398,6 +1393,7 @@ eStruxture Data Centers
 eUKhost
 easyname GmbH
 easyspeedy
+eircom Limited
 elitehost
 esds.co.in
 eserver.ru
