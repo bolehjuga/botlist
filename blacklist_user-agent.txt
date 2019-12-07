@@ -42,3 +42,6 @@ Baidu
 aliapp
 UC Browser
 Huawei
+Symantec
+Antivirus
+Scan
