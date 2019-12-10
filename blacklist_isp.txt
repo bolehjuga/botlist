@@ -4,6 +4,7 @@
 1&1 Internet
 1&1 Internet AG
 Wangsu Science and Technology (US) Inc.
+Logix Communications Inc.
 DigitalOcean LLC
 eircom Limited
 Sokom S.r.l.
