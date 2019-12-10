@@ -2,6 +2,7 @@
 0x2A Datacenter
 1 Gbits
 1&1 Internet
+Synamedia Technologies (India) Private Limited
 1&1 Internet AG
 Wangsu Science and Technology (US) Inc.
 Logix Communications Inc.
