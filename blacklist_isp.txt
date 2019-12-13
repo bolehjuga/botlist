@@ -2,6 +2,7 @@
 0x2A Datacenter
 1 Gbits
 McAfee Inc.
+Namecheap Inc.
 1&1 Internet
 Svyazresurs-Kuban LLC
 Synamedia Technologies (India) Private Limited
