@@ -2,6 +2,7 @@
 0x2A Datacenter
 A100 ROW GmbH
 Overkill Alpha s.r.o.
+Garstelecom
 EE Limited
 OVH Hosting Inc.
 France Telecom S.A.
@@ -33,6 +34,7 @@ HWC
 HEAnet
 ChinaNet Jiangsu Province Network
 1&1 Internet
+Alibaba.com LLC
 Institut Universitaire de Technologie A - Toulouse
 Svyazresurs-Kuban LLC
 OJSC Ufanet
