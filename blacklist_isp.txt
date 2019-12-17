@@ -5,6 +5,7 @@ Overkill Alpha s.r.o.
 Garstelecom
 EE Limited
 OVH Hosting Inc.
+OJSC Comcor
 France Telecom S.A.
 Orange S.A.
 Cluster Logic Inc
