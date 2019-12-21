@@ -1,6 +1,8 @@
 'OBIT' Ltd.
 0x2A Datacenter
 A100 ROW GmbH
+Digital Ocean Inc.
+Auction LLC
 Northwest Internet
 NetNet
 Delta Tau Delta
