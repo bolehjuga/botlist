@@ -34,7 +34,7 @@ sqlmap
 wget
 Internet Explorer
 Go-http-client
-Headless
+Headless Chrome
 Guzzle
 dingtalk
 Baidu
