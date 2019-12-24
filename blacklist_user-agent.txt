@@ -29,7 +29,7 @@ msnbot-media
 Nmap
 Nmap Scripting Engine
 okhttp
-python
+Python Requests
 sqlmap
 wget
 Internet Explorer
