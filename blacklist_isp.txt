@@ -2,6 +2,7 @@
 0x2A Datacenter
 A100 ROW GmbH
 Cyber Center
+Netskope Inc.
 Digital Ocean Inc.
 Auction LLC
 PenTeleData House Account
