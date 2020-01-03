@@ -33,6 +33,7 @@ Python Requests
 sqlmap
 wget
 Internet Explorer
+Internet Explorer 11.0
 Go-http-client
 Guzzle
 dingtalk
