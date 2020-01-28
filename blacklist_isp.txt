@@ -1,6 +1,7 @@
 'OBIT' Ltd.
 0x2A Datacenter
 Forcepoint LLC
+Tzulo Inc.
 Hivelocity Ventures Corp
 Mission CISD
 Ford Motor Company
@@ -383,6 +384,7 @@ Commtouch Inc.
 Community Network Center Inc.
 Comodo
 Comodo Group, Inc.
+Servetheworld
 Compubyte Limited/UCOZ Ltd.
 Comtrance Gmbh
 CondoInternet ISP
